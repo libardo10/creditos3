@@ -1,0 +1,3 @@
+function bienvenida(){
+	alert("¡Has visitado el sitio semillero de G-A-M-E-R!")
+}	
